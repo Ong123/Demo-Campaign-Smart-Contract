@@ -1,6 +1,6 @@
 # Demo-Campaign-Smart-Contract
 
-This project is use for CrowdFunding. User will create the camppaign & ask for the funding for their projects or Venture from a large number of people through thheis Decentralized Application.
+This project is use for CrowdFunding. User will create the campaign & ask for the funding for their projects or Venture from a large number of people through thheis Decentralized Application.
 This project has two different contracts, one is for CampaignFactory $ second one is for Campaign. 
 
 Campaign Factory contract will create new instances of Campaign contract & Campaign contract will allow you to do following mentioned Features:-
